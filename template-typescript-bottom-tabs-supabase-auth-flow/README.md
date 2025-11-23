@@ -85,8 +85,6 @@ export default () => {
 
 ![../media/hero.png](../media/hero.png)
 
-These UI components are provided by [Rapi UI](https://rapi-ui.kikiding.space/).
-Check the [documentation](https://rapi-ui.kikiding.space/docs/) for usage and more components.
 
 # File Managements
 
@@ -101,6 +99,4 @@ These are the folders and the functionality all in `src/`
 /src/types -> for Types
 ```
 
-if you find these useful don't forget to give it a star ⭐ and share it to your friends ❤️
 
-Reach me on [twitter](https://twitter.com/kikiding/)
